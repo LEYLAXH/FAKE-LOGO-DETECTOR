@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # FAKE-LOGO-DETECTOR
+=======
+# FAKE-LOGO-DETECTOR
+>>>>>>> 19426e6dde9a5607453f152da6d032bfe8aa66e1

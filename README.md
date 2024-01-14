@@ -1,6 +1,7 @@
 # FAKE-LOGO-DETECTOR
 The Fake Logo Detector is a web application developed using Django, HTML, CSS, and javascript. The purpose of this project is to detect fake logos by comparing uploaded images with a dataset of real logos using structural similarity (SSIM). The project structure includes frontend components in HTML, CSS, and javascript while the backend is implemented in Python using the Django framework.
-Running the Project
+
+# Running the Project
 1.Open the terminal and navigate to the project folder by entering command cd:
   cd ./fake_logo_detector/ 
 2.Run the Django development server by this command:
